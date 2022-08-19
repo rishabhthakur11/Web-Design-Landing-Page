@@ -4,7 +4,7 @@
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--6-lightgrey)
+![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--8-lightgrey)
 
 ![name](https://img.shields.io/badge/Rishabh-Thakur-lightgrey)
 
@@ -27,4 +27,4 @@
 
 > `2 hour`
 
-## Project 5 [Live Link](https://web-design-landing-page-alpha.vercel.app)
+## Project 8 [Live Link](https://web-design-landing-page-alpha.vercel.app)
